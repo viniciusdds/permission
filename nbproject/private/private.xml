@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/laragon/www/permission/resources/views/permission/permission.blade.php</file>
+            <file>file:/C:/laragon/www/permission/resources/views/home.blade.php</file>
+            <file>file:/C:/laragon/www/permission/resources/views/products/edit.blade.php</file>
+            <file>file:/C:/laragon/www/permission/resources/views/products/show.blade.php</file>
+            <file>file:/C:/laragon/www/permission/public/css/app.css</file>
+            <file>file:/C:/laragon/www/permission/resources/views/products/index.blade.php</file>
+            <file>file:/C:/laragon/www/permission/app/Http/Controllers/ProductController.php</file>
+            <file>file:/C:/laragon/www/permission/resources/views/products/create.blade.php</file>
+            <file>file:/C:/laragon/www/permission/public/css/style.css</file>
+            <file>file:/C:/laragon/www/permission/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/laragon/www/permission/routes/web.php</file>
+            <file>file:/C:/laragon/www/permission/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/laragon/www/permission/.env</file>
+        </group>
+    </open-files>
+</project-private>
